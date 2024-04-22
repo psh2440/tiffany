@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+/****   common.css   **********************/
+
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Merriweather", "Noto Sans KR", sans-serif;
+    background: #f9f9f9;
+}
+article {
+    position: relative;
+    margin-bottom: 150px;
+}
+
+
+
+.txt-box {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+
+.article-tit {
+    font-size: 50px !important;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.txt-box .txt-box-tit {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+
+.under_point:hover {
+    text-decoration: underline;
+    color: #81d8d0;
+
+}
+
+/* .font_bold {
+    font-size: 50px;
+    font-weight: bold;
+} */

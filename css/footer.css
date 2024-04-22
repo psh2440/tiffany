@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+
+
+footer {
+    background: #fefaf5;
+}
+
+footer .footer-nav {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.footer-menu {
+    outline: 2px solid pink;
+    text-align: center;
+}
+
+.footer-menu li {
+    float: left;
+    width: 25%;
+    outline: 2px solid green;
+}
+
+
+footer .footer-mid {outline: 2px solid blue;}
+
+footer .footer-mid>div {
+    float: left;
+    width: 33.33%;
+}
+
+footer .footer-bottom {outline: 2px solid green;}
